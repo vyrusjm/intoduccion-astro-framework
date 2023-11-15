@@ -1,35 +1,36 @@
-# Astro Starter Kit: Minimal
+# Introducción a Astro Framework
 
-```sh
-npm create astro@latest -- --template minimal
-```
+¡Bienvenido a este emocionante proyecto de introducción a Astro Framework! Este repositorio contiene el código y los recursos asociados con el tutorial de YouTube, donde exploramos en detalle desde la creación de un proyecto hasta la producción.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/minimal)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/minimal/devcontainer.json)
+## Contenido del Tutorial
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+- Creación de proyectos en Astro Framework
+- Implementación de templates y uso de CSS
+- Creación de componentes dinámicos
+- Navegación entre páginas
+- Preparación de archivos para producción
 
-## 🚀 Project Structure
+## Video Tutorial
 
-Inside of your Astro project, you'll see the following folders and files:
+¡Aprende con nosotros! [Tutorial Completo en YouTube](https://youtu.be/W5y7oq9jC_U)
 
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+## Instrucciones de Uso
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+1. Clona este repositorio: `git clone https://github.com/vyrusjm/intoduccion-astro-framework.git`
+2. Sigue las instrucciones del video tutorial para explorar y entender el código.
+3. Experimenta y mejora el proyecto según tus necesidades.
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+## Contribuciones
 
-Any static assets, like images, can be placed in the `public/` directory.
+¡Las contribuciones son bienvenidas! Si encuentras errores o deseas mejorar el proyecto, abre un problema o envía una solicitud de extracción.
 
-## 🧞 Commands
+## Agradecimientos
+
+Agradezco tu interés en este proyecto. ¡Espero que encuentres útil el tutorial y disfrutes trabajando con Astro Framework!
+
+
+
+## 🧞 Commands Astro
 
 All commands are run from the root of the project, from a terminal:
 
